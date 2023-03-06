@@ -54,8 +54,8 @@ p
 #carreras
 {
     font-family: mifuente;
-    height:400px;
-    width: 1200px;
+    height:420px;
+    width: 1360px;
     border: 6px solid#ffa3a3;
     border-radius: 10px;
     box-shadow: 5px 5px 10px #460909;
@@ -128,7 +128,7 @@ footer
 }
 .mercedes
 {
-    color:#696666;
+    color:#535353;
 }
 .williams
 {
@@ -136,7 +136,7 @@ footer
 }
 .alphatauri
 {
-    color:#ece4e4;
+    color:#b3abab;
 }
 .alfaromeo
 {
@@ -148,7 +148,7 @@ footer
 }
 .hass
 {
-    color:#ee8787;
+    color:#f8f8f8;
 }
 .alpine
 {
@@ -185,7 +185,7 @@ footer
 {
     color:#8a1d19
 }
-.Makakiño
+.Makako
 {
     color:#5e3d0b
 }
