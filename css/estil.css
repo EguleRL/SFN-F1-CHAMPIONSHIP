@@ -1,0 +1,194 @@
+@font-face
+{
+    font-family: mifuente;
+    src:url(../fonts/hollow.ttf);
+}
+
+.titulo
+{
+    color: #ffffff;
+    background-color: #831d1d;
+}
+
+h1, h2
+{
+    color:#881212;
+    font-family: mifuente;
+    text-align: center;
+}
+table
+{
+    width:100%;
+}
+p
+{
+    width: 300px;
+    height: 80px;
+    color: #ffffff;
+    border: 3px solid#ffa3a3;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #460909;
+    background-color: rgb(15, 15, 15);
+    font-size: 12px;
+    margin-left: 10px;
+    padding: 10px;
+    position: relative;
+    left:500px;
+    top:432px;
+}
+#pilotos
+{
+    font-family: mifuente;
+    width:350px;
+    height:760px;
+    border: 5px solid#ffa3a3;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #460909;
+    background-color: rgb(15, 15, 15);
+    font-size: 12px;
+    position: absolute;
+    left:80px;
+    top:160px;
+    text-align: center;
+}
+#carreras
+{
+    font-family: mifuente;
+    height:400px;
+    width: 1200px;
+    border: 6px solid#ffa3a3;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #460909;
+    text-align: center;
+    font-size: 12px;
+    position: absolute;
+    left:80px;
+    top:950px;
+}
+body
+{
+    background-color:rgb(24, 22, 22);
+}
+.sabado
+{
+    width:575px;
+    height:350px; 
+    margin-left:80px;
+    margin-top:10px;
+    border-radius: 20px;
+    position: absolute;
+    left:788px;
+    top:550px;
+    border: 1px solid #ffa3a3;
+    border-radius: 10px;
+    box-shadow: 15px 15px 15px #460909;
+}
+.f1
+{
+    width:935px;
+    height:350px; 
+    margin-left:80px;
+    margin-top:10px;
+    border-radius: 20px;
+    position: absolute;
+    left:440px;
+    top:150px;
+    border: 1px solid#ffa3a3;
+    border-radius: 10px;
+    box-shadow: 15px 15px 15px #460909;
+}
+footer
+{
+    margin-top: 100%;
+    padding: 10px;
+    border: 6px solid#752b2b;
+    width:280px;
+    height:35px;
+    border-radius: 40px 20px;
+    box-shadow: 5px 5px 10px #460909;
+    color:#ffffff;
+    font-family: mifuente;
+    
+    
+}
+
+
+
+.redbull
+{
+    color:#391fad;
+}
+.astonmartin
+{
+    color:#067209;
+}
+.ferrari
+{
+    color:#ff0000;
+}
+.mercedes
+{
+    color:#696666;
+}
+.williams
+{
+    color:#1556b6;
+}
+.alphatauri
+{
+    color:#ece4e4;
+}
+.alfaromeo
+{
+    color:#990303;
+}
+.mclaren
+{
+    color:#c76e1a;
+}
+.hass
+{
+    color:#ee8787;
+}
+.alpine
+{
+    color:#c679c9;
+}
+
+
+
+.Egulë
+{
+    color:#ffabff
+}
+.Larry
+{
+    color:#b1894d
+}
+.Goten
+{
+    color:#df9712
+}
+.Aida
+{
+    color:#7a20c4
+}
+.Lakasito
+{
+    color:#f8f5f8
+}
+.Nacola
+{
+    color:#574f4f
+}
+.Jason
+{
+    color:#8a1d19
+}
+.Makakiño
+{
+    color:#5e3d0b
+}
+
+
+
