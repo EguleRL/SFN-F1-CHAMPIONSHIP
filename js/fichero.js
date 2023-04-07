@@ -3,7 +3,7 @@ function loadEvents()
 
 var e1=20;
 var e2=0;
-var e3=0;
+var e3=5;
 var e4=0;
 var e5=0;
 var e6=0;
@@ -26,7 +26,7 @@ var e22=0;
 
 var g1=15;
 var g2=0;
-var g3=0;
+var g3=10;
 var g4=0;
 var g5=0;
 var g6=0;
@@ -49,7 +49,7 @@ var g22=0;
 
 var j1=10;
 var j2=0;
-var j3=0;
+var j3=5;
 var j4=0;
 var j5=0;
 var j6=0;
@@ -72,7 +72,7 @@ var j22=0;
 
 var l1=0;
 var l2=0;
-var l3=0;
+var l3=5;
 var l4=0;
 var l5=0;
 var l6=0;
@@ -139,28 +139,28 @@ var lk20=0;
 var lk21=0;
 var lk22=0;
 
-var n1=0;
-var n2=0;
-var n3=0;
-var n4=0;
-var n5=0;
-var n6=0;
-var n7=0;
-var n8=0;
-var n9=0;
-var n10=0;
-var n11=0;
-var n12=0;
-var n13=0;
-var n14=0;
-var n15=0;
-var n16=0;
-var n17=0;
-var n18=0;
-var n19=0;
-var n20=0;
-var n21=0;
-var n22=0;
+var p1=0;
+var p2=0;
+var p3=5;
+var p4=0;
+var p5=0;
+var p6=0;
+var p7=0;
+var p8=0;
+var p9=0;
+var p10=0;
+var p11=0;
+var p12=0;
+var p13=0;
+var p14=0;
+var p15=0;
+var p16=0;
+var p17=0;
+var p18=0;
+var p19=0;
+var p20=0;
+var p21=0;
+var p22=0;
 
 var m1=0;
 var m2=0;
@@ -191,7 +191,7 @@ const totalaida = [a1,a2,a3,a4,a5,a6,a7,a8,a9,a10,a11,a12,a13,a14,a15,a16,a17,a1
 const totalgoten = [g1,g2,g3,g4,g5,g6,g7,g8,g9,g10,g11,g12,g13,g14,g15,g16,g17,g18,g19,g20,g21,g22].reduce((partialSum, a) => partialSum + a, 0);
 const totallarry = [l1,l2,l3,l4,l5,l6,l7,l8,l9,l10,l11,l12,l13,l14,l15,l16,l17,l18,l19,l20,l21,l22].reduce((partialSum, a) => partialSum + a, 0);
 const totallaka = [lk1,lk2,lk3,lk4,lk5,lk6,lk7,lk8,lk9,lk10,lk11,lk12,lk13,lk14,lk15,lk16,lk17,lk18,lk19,lk20,lk21,lk22].reduce((partialSum, a) => partialSum + a, 0);
-const totalnacola = [n1,n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22].reduce((partialSum, a) => partialSum + a, 0);
+const totalpato = [p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,p12,p13,p14,p15,p16,p17,p18,p19,p20,p21,p22].reduce((partialSum, a) => partialSum + a, 0);
 const totalmakako = [m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m11,m12,m13,m14,m15,m16,m17,m18,m19,m20,m21,m22].reduce((partialSum, a) => partialSum + a, 0);
 const totaljason = [j1,j2,j3,j4,j5,j6,j7,j8,j9,j10,j11,j12,j13,j14,j15,j16,j17,j18,j19,j20,j21,j22].reduce((partialSum, a) => partialSum + a, 0);
 
@@ -202,7 +202,7 @@ const totaljason = [j1,j2,j3,j4,j5,j6,j7,j8,j9,j10,j11,j12,j13,j14,j15,j16,j17,j
     document.getElementById('tgoten').innerHTML= totalgoten;
     document.getElementById('tlarry').innerHTML= totallarry;
     document.getElementById('tlaka').innerHTML= totallaka;
-    document.getElementById('tnacola').innerHTML= totalnacola;
+    document.getElementById('tpato').innerHTML= totalpato;
     document.getElementById('tmakako').innerHTML= totalmakako;
     document.getElementById('tjason').innerHTML= totaljason;
 
